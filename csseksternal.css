@@ -1,4 +1,11 @@
-<style type="text/css"> 
-.heading{ color:red;
-background: black;
+<style>
+body {
+	color: red;
 }
+h1 {
+	color: #00FF00;
+}
+p {
+	color: rgb(0,0,255)
+}
+</style>

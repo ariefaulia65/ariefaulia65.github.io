@@ -5,7 +5,7 @@
  color: white;
  text-align: center;
         font-size: 40pt;
-
+border: 5px solid red;
  text-shadow: 2px 2px #ff0000;
 }
 .paragraf{
@@ -14,11 +14,6 @@
  background-color: gray;
  color: white;
  text-align: left;
-        font-size: 10pt;
+        font-size: 20pt;
 
  }
-p {
-
-  border: 5px solid red;
-
-} 

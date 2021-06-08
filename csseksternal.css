@@ -17,3 +17,7 @@ border: 5px solid red;
         font-size: 20pt;
 
  }
+body{
+	background-color: gray;
+	color: white
+}

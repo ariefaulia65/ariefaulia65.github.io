@@ -8,16 +8,23 @@
 border: 5px solid red;
  text-shadow: 2px 2px #ff0000;
 }
+.judul{
+	background-color: gray;
+	color: white;
+	text-align: center;
+	border: 7px solid black;
+	 text-shadow: 2px 2px #ff0000;
+
+}
 .paragraf{
 	 width: 100%;
  height: 100%;
- background-color: gray;
- color: white;
  text-align: left;
         font-size: 20pt;
 
  }
 body{
-	background-color: gray;
-	color: white
+	background-color: lightgray;
+	color: black;
+	
 }

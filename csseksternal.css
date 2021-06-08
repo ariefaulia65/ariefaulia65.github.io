@@ -28,3 +28,26 @@ body{
 	color: black;
 
 }
+.navatas {
+  overflow: hidden;
+  background-color: black;
+}
+
+.navatas a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navatas a:hover {
+  background-color: gray;
+  color: white;
+}
+
+.navatas a.active {
+  background-color: green;
+  color: white;
+}

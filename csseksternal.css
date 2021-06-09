@@ -13,7 +13,7 @@ border: 5px solid black;
 	color: white;
 	text-align: center;
 	border: 7px solid black;
-	 text-shadow: 2px 2px #ff0000;
+	text-shadow: 2px 2px #ff0000;
 
 }
 .paragraf{
@@ -58,7 +58,7 @@ table{
   color: white;
   text-align: center;
   border-collapse: collapse;
-  border: double solid line;
+  border: 7px solid black;
 }
 table, th,td {
   border: 5px black;

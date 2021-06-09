@@ -65,6 +65,6 @@ table{
   border-collapse: collapse;
 }
 table, th,td {
-  border: 5px black;
+  border: 5px solid black;
   padding: 8px 20px;
 }

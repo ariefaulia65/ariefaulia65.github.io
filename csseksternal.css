@@ -54,8 +54,8 @@ body{
 img{
   border: 5px solid black;
 }
-.galerifoto{
-	height: 200px;
+img{
+  height: 200px;
 }
 table{
   font-family: sans-serif;

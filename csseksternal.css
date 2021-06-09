@@ -52,8 +52,18 @@ body{
   color: white;
 }
 img{
-  border: 2px solid black;
+  border: 5px solid black;
 }
 .fotoinokulasi{
 	height: 200px;
+}
+table{
+  font-family: sans-serif;
+  background-color: gray;
+  color: white;
+  border-collapse: collapse;
+}
+table, th,td {
+  border: 5px black;
+  padding: 8px 20px;
 }

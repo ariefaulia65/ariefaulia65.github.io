@@ -63,6 +63,7 @@ table{
   color: white;
   text-align: center;
   border-collapse: collapse;
+  border: double solid line;
 }
 table, th,td {
   border: 5px black;

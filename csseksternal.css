@@ -62,39 +62,19 @@ table, th,td {
   border: 5px black;
   padding: 8px 20px;
 }
-.tombol {
-  box-sizing: border-box;
-  -webkit-appearance: none;
-     -moz-appearance: none;
-          appearance: none;
-  background-color: transparent;
-  border: 2px solid #e74c3c;
-  border-radius: 0.6em;
-  color: #e74c3c;
-  cursor: pointer;
-  display: flex;
-  align-self: center;
-  font-size: 1rem;
-  font-weight: 400;
-  line-height: 1;
-  margin: 20px;
-  padding: 1.2em 2.8em;
-  text-decoration: none;
-  text-align: center;
-  text-transform: uppercase;
-  font-family: 'Montserrat', sans-serif;
-  font-weight: 700;
+a, button,input[type=submit],input[type=reset] {
+    font-family: sans-serif;
+    font-size: 15px;
+    background: #22a4cf;
+    color: white;
+    border: white 3px solid;
+    border-radius: 5px;
+    padding: 12px 20px;
+    margin-top: 10px;
 }
-.tombol:hover, .tombol:focus {
-  color: #fff;
-  outline: 0;
+a {
+    text-decoration: none;
 }
-.halaman {
-  transition: box-shadow 300ms ease-in-out, color 300ms ease-in-out;
-}
-.halaman:hover {
-  box-shadow: 0 0 40px 40px #e74c3c inset;
-}
-.btn btn-info{
-  background-color: blue;
+a:hover, button:hover, input[type=submit]:hover, input[type=reset]:hover{
+    opacity:0.9;
 }

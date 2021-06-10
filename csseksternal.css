@@ -26,11 +26,11 @@ body{
 	background-color: lightgray;
 	color: black;
 }
-.untuklink {
+.navatas {
   overflow: hidden;
   background-color: black;
 }
-.untuklink a {
+.navatas a {
   float: left;
   color: white;
   text-align: center;
@@ -38,11 +38,11 @@ body{
   text-decoration: none;
   font-size: 17px;
 }
-.untuklink a:hover {
+.navatas a:hover {
   background-color: gray;
   color: white;
 }
-.untuklink a.active {
+.navatas a.active {
   background-color: green;
   color: white;
 }

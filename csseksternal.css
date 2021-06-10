@@ -95,4 +95,6 @@ table, th,td {
 .halaman:hover {
   box-shadow: 0 0 40px 40px #e74c3c inset;
 }
-<button type="button" class="btn btn-info">Info</button>
+.btn btn-info{
+  background-color: blue;
+}

@@ -59,12 +59,9 @@ table{
   border-collapse: collapse;
   border: 7px solid black;
   border="1";
+  padding: 13px;
 }
-}
-table, th,td {
-  border: 5px black;
-  padding: 8px 20px;
-}
+
 button{
   background-color: green;
   color: white;

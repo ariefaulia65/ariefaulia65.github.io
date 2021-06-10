@@ -63,3 +63,7 @@ table, th,td {
   border: 5px black;
   padding: 8px 20px;
 }
+button{
+  background-color: green;
+  color: white;
+}

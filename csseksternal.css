@@ -17,3 +17,22 @@
 	background-color: blue;
 	border: none;
 }
+h1{
+	color: black;
+	text-align: center;
+
+}
+p{
+	font-size: 20pt;
+	text-align: left;
+	color: black;
+
+}
+.card{
+	width: 100%;
+	height: 100%;
+	background-color: white;
+	text-align: center;
+	font-size: 40pt;
+	border: 5px;
+}

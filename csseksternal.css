@@ -7,6 +7,8 @@
 }
 .jumbotron p {
 	font-size: 20px;
+	color: white;
+
 }
 .jumbotron hr {
 	border-color: blue;
@@ -20,19 +22,26 @@
 .header{
 	color: black;
 	text-align: center;
-
+	border: 3pt solid black;
+	background-color: lightblue;	
 }
 .paragraf{
 	font-size: 20pt;
 	text-align: left;
 	color: black;
+	border: 3pt solid black;
+	background-color: lightblue;
+}
+.fotocard{
+	border: 3pt solid black;
+	text-align: center;
+}
+table{
+	border: 3pt solid black;
+	background-color: lightblue;
 
 }
-.card{
-	width: 100%;
-	height: 100%;
-	background-color: white;
-	text-align: center;
-	font-size: 40pt;
-	border: 5px;
+body{
+	background-image: url(backgroundsimdig.jpg);
+	background-size: cover;
 }

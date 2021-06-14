@@ -1,66 +1,19 @@
-.card{
- width: 100%;
- height: 100%;
- background-color: gray;
- color: white;
- text-align: center;
-        font-size: 40pt;
-border: 5px solid black;
- text-shadow: 2px 2px #ff0000;
-}
-.judul{
-	background-color: gray;
-	color: white;
+.jumbotron{
+	background-image: url(backgroundsimdig.jpg);
+	background-size: cover;
+	height: 590px;
 	text-align: center;
-	border: 7px solid black;
-	text-shadow: 2px 2px #ff0000;
-
+	color: white;
 }
-.paragraf{
-	 width: 100%;
- height: 100%;
- text-align: left;
-        font-size: 20pt;
- }
-body{
-	background-color: lightgray;
-	color: black;
+.jumbotron p {
+	font-size: 20px;
 }
-.navatas {
-  overflow: hidden;
-  background-color: black;
+.jumbotron hr {
+	border-color: blue;
+	width: 60px;
+	border-width: 4px;
 }
-.navatas a {
-  float: left;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-}
-.navatas a:hover {
-  background-color: gray;
-  color: white;
-}
-.navatas a.active {
-  background-color: green;
-  color: white;
-}
-img{
-  border: 5px solid black;
-  height: 200px;
-  border-radius: 25%;
-}
-table{
-  font-family: sans-serif;
-  background-color: gray;
-  color: white;
-  text-align: center;
-  border-collapse: collapse;
-  border: 7px solid black;
-}
-
-button{
-  background-color: green;
-  color: white;
+.jumbotron .btn {
+	background-color: blue;
+	border: none;
 }
